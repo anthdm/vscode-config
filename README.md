@@ -12,5 +12,5 @@ A lot of people ask me what my VSCODE setup is. So I created this repo for you.
 # Additional links
 * [YouTube channel](https://www.youtube.com/channel/UCIjIAXXsX4YMYeFj-LP42-Q)
 * [Patreon](https://www.patreon.com/anthonygg_)
-* [Discord community](https://discord.gg/c6EYsK5f)
+* [Discord community](https://discord.gg/bDy8t4b3Rz)
 * [Twitter](https://twitter.com/anthdm)
